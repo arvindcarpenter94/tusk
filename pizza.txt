@@ -5,5 +5,7 @@ Recipe from Navin Reddy
 
 1. Go to Dominos.com
 2. Select the pizza.
-3. Order
+3. Customize the pizaa
+3. checkout
+4. Pay
 
